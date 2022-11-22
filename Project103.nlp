@@ -1,0 +1,15 @@
+# Project description file
+
+project.name=Project103
+project.version=8.4
+project.original.version=8.4
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.original.version=8.2.1
+project.is-open-test-settings-after-upload=false
+project.id=029f1109-e633-4893-bfbf-b8da2a87602a
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
+project.workspace=5e3acde2e860a132744ca916
+product.version=8.2.1

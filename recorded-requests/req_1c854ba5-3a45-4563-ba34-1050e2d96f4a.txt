@@ -1,0 +1,22 @@
+GET https://innersource.accenture.com:443/rest/ui/latest/dashboard/pull-requests?avatarSize=48&order=participant_status&start=0&limit=25&state=OPEN&role=AUTHOR HTTP/1.1
+Host: innersource.accenture.com
+Connection: keep-alive
+sec-ch-ua: "Microsoft Edge";v="107", "Chromium";v="107", "Not=A?Brand";v="24"
+X-AUSERNAME: srinivas.godari
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42
+Content-Type: application/json
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+x-atlassian-mau-ignore: true
+X-AUSERID: 1207639
+sec-ch-ua-platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://innersource.accenture.com/dashboard
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: SIMI=eyJzdCI6MH0=; rtFa=exdAzEJ8buz2jCuOGj6Lc7s5sSbB7p3p726bjutL4a0mRTA3OTNEMzktMDkzOS00OTZELUIxMjktMTk4RUREOTE2RkVCIzEzMzEzNDk3NjU5NjExODkyMSMyRUJDN0FBMC0xMDgwLTIwMDAtREU1Ny0yOTJEM0M3RjgwNjAjU1JJTklWQVMuR09EQVJJJTQwQUNDRU5UVVJFLkNPTVUkgijiogIgANuamIZc6QH+vzF8XtHcvFsqI/zXBuUq5k6x8+dNxsPM8Rqw8LAAL44XuHgFzeVksFae8JvO1/jYovqC4U45f2VFLNx7tSqrgkxL+M2+Z7p/ZLkBfLkMzP/1btOuDobEiueS8DWFtINghZNWtSOwd/GgIBP9FqTvq619F/54l1ta676duBW9Fg17YgdpFBNvga7gEg2krVum7mobRUilio8GIXx3MSpjjMxUnp/kyn0F63LmLsfff/TRHLhXs24kuDfppwVV2UXCpDQbvAFzGJ8X/R7IA5PFe9Fm0RHoOTPHke4Rg1ATR3kZQYrCpAd/bY6gbFdHEd2dAAAA; _shibsession_696e6e6572736f757263652e616363656e747572652e636f6d68747470733a2f2f696e6e6572736f757263652e616363656e747572652e636f6d=_df1be9c7c19546b6c89db52f799afcb8; BITBUCKETSESSIONID=F57B0705FBB9940D64CFB05A3D3FDC5E; AWSELB=E31F25091E8C7EA0FCA322A3188DB2D53B2FEB9748998B7C2976CE7A7B27A2FB68034DE5286D04DEA1F63CEA84FE20253A7AC5A40A7D862AD77BD08F9D17A66AA219B62C1AA6E323D76075E5FAB534FC97DEC1CB54EC708CEBF42974D5B9E55F475709BC3A
+
